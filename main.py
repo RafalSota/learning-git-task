@@ -12,3 +12,5 @@ for shop, product in products.items():
 print(f"W sumie kupuję {l} produktów\n")
 
 print(f"Moduł 3_4 Praca z Git")
+
+print("'Hiszpańska inkwizycja' to najlepszy skecz Monty Pythona")
