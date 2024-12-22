@@ -10,3 +10,5 @@ for shop, product in products.items():
     print(f"Idę do {shop.capitalize()} i kupuję tam {produkty}")
     l = l + len(product)
 print(f"W sumie kupuję {l} produktów\n")
+
+print(f"Moduł 3_4 Praca z Git")
