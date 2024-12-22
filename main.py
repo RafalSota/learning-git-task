@@ -16,3 +16,5 @@ print(f"Moduł 3_4 Praca z Git")
 print("'Hiszpańska inkwizycja' to najlepszy skecz Monty Pythona")
 
 print("change nr 1")
+
+print("change nr 2")
