@@ -11,3 +11,4 @@ for shop, product in products.items():
     l = l + len(product)
 print(f"W sumie kupuję {l} produktów\n")
 
+print("Dodatkowa zmiana do nowego commit")
